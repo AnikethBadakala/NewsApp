@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "independent", "name": "Independent" },
+      "author": "Bel Trew",
+      "title": "Three dead and dozens injured in Sudan after clashes between army and paramilitary",
+      "description": "Paramilitaries claim to control presidential palace in apparent coup attempt as they clash with army",
+      "url": "http://www.independent.co.uk/news/world/africa/sudan-khartoum-fighting-british-paramilitaries-army-b2320329.html",
+      "urlToImage": "https://static.independent.co.uk/2023/04/15/12/khartoum.jpeg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2023-04-15T14:06:43Z",
+      "content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails\r\nSign up to our free breaking news emails\r\nThree people have been killed and dozens injured aft… [+4969 chars]"
+    },
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "news24",
+      "title": "Fighting rocks Sudan capital as regular army battles paramilitaries",
+      "description": "Explosions rocked the Sudanese capital Saturday as paramilitaries and the regular army traded attacks on each other's bases, days after the army warned the country was at a \"dangerous\" turning point.",
+      "url": "https://www.news24.com/news24/africa/news/fighting-rocks-sudan-capital-as-regular-army-battles-paramilitaries-20230415",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/1235/884a959e1c5e4733b86537db6ff6bb6e.jpg",
+      "publishedAt": "2023-04-15T13:41:28+00:00",
+      "content": "<ul><li>Explosions rocked the Sudanese capital Saturday as paramilitaries and the regular army traded attacks on each other's bases.</li><li>The paramilitaries said they were in control of the presid… [+5152 chars]"
+    },
+    {
+      "source": { "id": "google-news-uk", "name": "Google News (UK)" },
+      "author": "Sky News",
+      "title": "Sudan: Civilians reportedly killed during heavy fighting between army and paramilitary forces - Sky News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L3VzLWFtYmFzc2Fkb3ItZm9yY2VkLXRvLXNoZWx0ZXItYXMtZmlnaHRpbmctYnJlYWtzLW91dC1pbi1zdWRhbnMtY2FwaXRhbC0xMjg1NzYxN9IBcGh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2FtcC91cy1hbWJhc3NhZG9yLWZvcmNlZC10by1zaGVsdGVyLWFzLWZpZ2h0aW5nLWJyZWFrcy1vdXQtaW4tc3VkYW5zLWNhcGl0YWwtMTI4NTc2MTc?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-04-15T13:34:53+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Sudan paramilitaries say they have seized presidential palace",
+      "description": "Sudan's paramilitary Rapid Support Forces (RSF) said they had taken control of the presidential palace, the residence of the army chief and Khartoum international airport on Saturday as clashes erupted with the army in an escalating power struggle.",
+      "url": "https://www.reuters.com/world/africa/heavy-gunfire-heard-south-sudanese-capital-khartoum-witnesses-2023-04-15/",
+      "urlToImage": "https://www.reuters.com/resizer/fqwfp1c3gvidH9gHvxRHlTq2GG4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JRDJ3TC5VNMNXNDVO7EJ5IFKQA.jpg",
+      "publishedAt": "2023-04-15T10:24:16Z",
+      "content": "April 15 (Reuters) - Sudan's paramilitary Rapid Support Forces (RSF) said they had taken control of the presidential palace, the residence of the army chief and Khartoum international airport on Satu… [+2706 chars]"
+    }  ]
+}
